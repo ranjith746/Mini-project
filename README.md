@@ -1,2 +1,1 @@
-# Mini-project
-Agroculture - The project that connects Farmers and Buyers directly without any mediator 
+Agroculture - This project is a web-based platform connecting farmers directly with buyers, eliminating intermediaries and streamlining the agricultural supply chain. It allows farmers to list their products for sale, and buyers to browse, search, and purchase fresh produce directly online.
